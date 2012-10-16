@@ -1,4 +1,11 @@
 <?php
+/**
+ * EasyAuth
+ *
+ * @author		Yasuhiro Hayashida https://github.com/hayashida
+ * @copyright	2012 Yasuhiro Hayashida
+ * @license		MIT License
+ */
 
 return array(
 	/**
